@@ -1,5 +1,6 @@
 <h1>Hi, I'm Xhulio! <br/>
 <h2>Aspiring Data Analyst </h2>
+  Hosting all of my major projects as an entry level Data Analyst using standard analytical tools such as Microsoft Excel and SQL. Data visualization tools such as Tableau and Microsoft pivort tables, and charts and graphs.
 <h2>Certifications</h2>
 -Credly Badges(https://www.credly.com/earner/dashboard)
 
@@ -17,6 +18,10 @@
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+ 
+  <h3>Currently Learning: </h3>
+  <b>Python</b>
+  <b>Power BI</b>
 
 
 <h2> 🤳 Connect with me:</h2>
