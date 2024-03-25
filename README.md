@@ -20,7 +20,7 @@
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
  
   <h3>Currently Learning: </h3>
-  <b>Python</b>
+  <b>Python</b> and
   <b>Power BI</b>
 
 
