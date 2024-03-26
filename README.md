@@ -7,7 +7,7 @@
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
-- <b>Data cleaning in Excel (Power Query)</b>
+- <b>Data Cleaning in Excel </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
     
 - <b>Data Cleaning in SQL</b>
