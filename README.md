@@ -8,7 +8,7 @@
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>Data Cleaning in Excel </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Data Cleaning and Visualization Project](https://github.com/honeyPogace/DataCleaning_Excel)
     
 - <b>Data Cleaning in SQL</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
