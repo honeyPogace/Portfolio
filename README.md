@@ -11,13 +11,10 @@
   - [Data Cleaning and Visualization Project](https://github.com/honeyPogace/DataCleaning_Excel)
     
 - <b>Data Cleaning in SQL</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   
 - <b>Data Visualization in Tableau</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Tableau Visualization Project](https://github.com/honeyPogace/Tableau_Project)
+
  
   <h3>Currently Learning: </h3>
   <b>Python</b> and
