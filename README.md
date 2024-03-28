@@ -1,6 +1,7 @@
 <h1>Hi, I'm Xhulio! <br/>
 <h2>Aspiring Data Analyst </h2>
-  Hosting all of my major projects as an entry level Data Analyst using standard analytical tools such as Microsoft Excel and SQL. Data visualization tools such as Tableau and Microsoft pivort tables, and charts and graphs.
+  Hosting all of my major projects as an entry level Data Analyst using standard analytical tools such as Microsoft Excel and SQL. Data visualization tools such as Tableau and Microsoft pivort tables, and charts and graphs. 
+  My aim is to show proficiency in data storage, data wrangling, data warehousing, mining, and visualization.
 <h2>Certifications</h2>
 -Credly Badges(https://www.credly.com/earner/dashboard)
 
